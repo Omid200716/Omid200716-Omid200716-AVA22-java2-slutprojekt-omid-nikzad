@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+2
+2
+0
+0
+0
+0
+2
+2
+4
+2
+2
+2
+4
+4
+2
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 2% capacity.
+Buffer is at 2% capacity.
+Buffer is at 4% capacity.
+Buffer is at 4% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 8% capacity.
+Buffer is at 4% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 12% capacity.
+Buffer is at 14% capacity.
+Buffer is at 12% capacity.
+Buffer is at 10% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 4% capacity.
+Buffer is at 6% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 6% capacity.
+Buffer is at 2% capacity.
+Buffer is at 2% capacity.
+Buffer is at 4% capacity.
+Buffer is at 4% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 14% capacity.
+Buffer is at 14% capacity.
+Buffer is at 14% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 20% capacity.
+Buffer is at 16% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 0% capacity.
+Buffer is at 2% capacity.
+Buffer is at 4% capacity.
+Buffer is at 6% capacity.
+Buffer is at 6% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 8% capacity.
+Buffer is at 6% capacity.
+Buffer is at 6% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 6% capacity.
+Buffer is at 8% capacity.
+Buffer is at 8% capacity.
+Buffer is at 10% capacity.
+Buffer is at 12% capacity.
+Buffer is at 12% capacity.
+Buffer is at 12% capacity.
+Buffer is at 14% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 20% capacity.
+Buffer is at 22% capacity.
+Buffer is at 24% capacity.
+Buffer is at 24% capacity.
+Buffer is at 18% capacity.
+Buffer is at 20% capacity.
+Buffer is at 18% capacity.
+Buffer is at 20% capacity.
+Buffer is at 18% capacity.
+Buffer is at 14% capacity.
+Buffer is at 16% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 18% capacity.
+Buffer is at 20% capacity.
+Buffer is at 22% capacity.
